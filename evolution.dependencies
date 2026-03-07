@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "device_samsung_sm8550-common",
+    "target_path": "device/samsung/sm8550-common"
+  },
+  {
+    "repository": "vendor_samsung_dm2q",
+    "target_path": "vendor/samsung/dm2q"
+  }
+]
